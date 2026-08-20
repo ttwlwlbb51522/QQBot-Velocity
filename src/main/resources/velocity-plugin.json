@@ -1,0 +1,9 @@
+{
+  "id": "qqbot",
+  "name": "QQBot",
+  "version": "1.0.0",
+  "description": "QQ群服互联机器人（Velocity版）",
+  "authors": ["citprobe"],
+  "dependencies": [],
+  "main": "cn.citprobe.QQBotPlugin"
+}
