@@ -1,5 +1,7 @@
 # QQBot-Velocity
 
+> 📖 在线文档：[https://doc.citprobe.cn/QQBot-Velocity](https://doc.citprobe.cn/QQBot-Velocity)
+
 基于 [Velocity](https://papermc.io/software/velocity) 的 QQ 群服互联机器人插件，负责连接中转站并聚合展示各后端（Paper）上报的 TPS / MSPT / 人数。
 
 > 🔗 这是 **Velocity（代理）版**。后端请使用 [QQBot-Paper](https://github.com/ttwlwlbb51522/QQBot-Paper) 插件。
